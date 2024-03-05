@@ -1,13 +1,6 @@
 E-COMMERCE WEBSITE
 
 AUTHOR: ONG ZI XIN
-Contributor: 
-1. Lee Qian-Er
-2. Chia Soon Tock
-3. Soon Chyi Phing
-4. Chai Yi Kai
-
-
 
 Bootstrap 
 Bootstrap(CSS)： https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
