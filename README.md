@@ -2,6 +2,22 @@ E-COMMERCE WEBSITE
 
 AUTHOR: ONG ZI XIN
 
+**Introduction**
+This project utilizes PHP, Bootstrap, and JQuery to develop an E-commerce website that allows users to shop online and add interested items to cart list.
+
+language:
+-php
+-javascript
+-css
+-html
+
+Techniques used:
+-Asynchronous update cart list, and sorting of items
+-SQL
+-session
+-cookies
+ 
+
 Bootstrap 
 Bootstrap(CSS)： https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
 Boostrap(JS): https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js
